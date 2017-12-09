@@ -1,0 +1,18 @@
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\bin\Release\Youtube music.exe.config
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\bin\Release\Youtube music.exe
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\bin\Release\Youtube music.pdb
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music WPF.csprojResolveAssemblyReference.cache
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\MainWindow.baml
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\MainWindow.g.cs
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Window1.g.cs
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\App.g.cs
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music_MarkupCompile.cache
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music_MarkupCompile.lref
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Window1.baml
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music.g.resources
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube_music_WPF.Properties.Resources.resources
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music WPF.csproj.GenerateResource.Cache
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music WPF.csproj.CoreCompileInputs.cache
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music.exe
+C:\Users\BALIST0N\Documents\Projects\Youtube music WPF\Youtube music WPF\obj\Release\Youtube music.pdb
