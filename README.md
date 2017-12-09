@@ -11,8 +11,8 @@ Features list:
  * integrated updater
  
 
-#### [DOWNLOAD HERE THE APPLICATION](https://www.dropbox.com/s/axqr0bmd1ra3suq/YoutubeMusic.rar?dl=0)
+## [DOWNLOAD APPLICATION HERE](https://www.dropbox.com/s/axqr0bmd1ra3suq/YoutubeMusic.rar?dl=0)
 
-###### [if you have issues with installation : check this :)]()
+###### [if you have issues with installation : check this :) ]()
 
 
