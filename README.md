@@ -4,7 +4,7 @@ An awsome free & lightweight application for listening youtube musics, no ads ! 
 Features list:
 
  * in stream music from youtube video, less internet trafic  
- * lightweight app : less than 5 mb and 50mb in Ram load
+ * lightweight app : less than 5 mb in disk size and 50mb in Ram load
  * search any video from youtube to listen
  * List of channels and exploring channels
  * dark theme and loop music mode
