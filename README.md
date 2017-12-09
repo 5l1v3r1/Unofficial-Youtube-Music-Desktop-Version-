@@ -3,7 +3,7 @@ An awsome free & lightweight application for listening youtube musics, no ads ! 
 
 Features list:
 
- * in stream music from youtube video, less internet trafic :) 
+ * in stream music from youtube video, less internet trafic  
  * lightweight app : less than 5 mb and 50mb in Ram load
  * search any video from youtube to listen
  * List of channels and exploring channels
@@ -13,6 +13,6 @@ Features list:
 
 ## [DOWNLOAD APPLICATION HERE](https://www.dropbox.com/s/axqr0bmd1ra3suq/YoutubeMusic.rar?dl=0)
 
-###### [if you have issues with installation : check this :) ]()
+###### [if you have issues with installation : check this ]()
 
 
