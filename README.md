@@ -1,4 +1,4 @@
-# - Unofficial Youtube Music -
+ - Unofficial Youtube Music -
 An awsome free & lightweight application for listening youtube musics, no ads ! better than deezer and spotify ! 
 
 Features list:
@@ -7,7 +7,7 @@ Features list:
  * lightweight app : less than 5 mb and 50mb in Ram load
  * search any video from youtube to listen
  * List of channels and exploring channels
- * dark theme and lopp music mode
+ * dark theme and loop music mode
  * integrated updater
  
 
